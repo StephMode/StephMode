@@ -12,6 +12,7 @@ Aspiring Web and Software Developer with +5 years of experience in Project Manag
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### On my journey to become a web developer
+
+### On my way to become a web developer at the moment:
 
 ![mood GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21zazJkeHNvZ3hkNzA1NHRiaDY1b3N5aWhpdHZ2NTJ4cm82YjdpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
