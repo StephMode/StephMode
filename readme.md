@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile
+# Hi, I'm Stephan
 
 Aspiring Web and Software Developer with +5 years of experience in Project Management and Sales Professional, including management of Software Projects and Partnerships.
 
@@ -27,6 +27,10 @@ Aspiring Web and Software Developer with +5 years of experience in Project Manag
 - 2023 - 2024: Business Development Manager, [ePages GmbH](https://epages.com/de/) 🗺️ Hamburg
 - 2019 - 2022: Team Lead Account Management, [WattFox GmbH](https://www.wattfox.de/) 🗺️ Freiburg
 
+
+## Let's get in touch
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/stephan-model-53b46b182/)
 
 ### On my way to become a web developer at the moment:
 
