@@ -2,7 +2,7 @@
 
 Aspiring Web and Software Developer with +5 years of experience in Project Management and Sales Professional, including management of Software Projects and Partnerships.
 
-## Technologies
+## Technologies & Skills
 
 ### Using
 
@@ -12,6 +12,13 @@ Aspiring Web and Software Developer with +5 years of experience in Project Manag
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+### Additional Skills & Knowledge
+
+- Project Management
+- Stakeholder Management
+- Confluence & JIRA
+- Deep understanding of E-Commerce and SaaS Businesses
+- Basic Understanding of Digital Marketing
 
 ## Working Experience & Education
 
