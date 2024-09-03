@@ -38,6 +38,14 @@ Aspiring Web and Software Developer with +5 years of experience in Project Manag
 - 2023 - 2024: Business Development Manager, [ePages GmbH](https://epages.com/de/) 🗺️ Hamburg
 - 2019 - 2022: Team Lead Account Management, [WattFox GmbH](https://www.wattfox.de/) 🗺️ Freiburg
 
+## Passionate about
+
+- 📚 Literature & Writing
+- 📸 Photography
+- 🎧 Music
+- 🏃‍♂️ Running
+- 🗣️ Languages
+- 🍵 Tea
 
 ## Let's get in touch
 
