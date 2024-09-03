@@ -2,6 +2,10 @@
 
 Aspiring Web and Software Developer with +5 years of experience in Project Management and Sales Professional, including management of Software Projects and Partnerships.
 
+## On my way to become a web developer at the moment
+
+![mood GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21zazJkeHNvZ3hkNzA1NHRiaDY1b3N5aWhpdHZ2NTJ4cm82YjdpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
+
 ## Technologies & Skills
 
 ### Using
@@ -42,7 +46,3 @@ Aspiring Web and Software Developer with +5 years of experience in Project Manag
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"></img>
   </a>
 </div>
-
-### On my way to become a web developer at the moment:
-
-![mood GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21zazJkeHNvZ3hkNzA1NHRiaDY1b3N5aWhpdHZ2NTJ4cm82YjdpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
