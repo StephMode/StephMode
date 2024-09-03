@@ -37,7 +37,11 @@ Aspiring Web and Software Developer with +5 years of experience in Project Manag
 
 ## Let's get in touch
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/stephan-model-53b46b182/)
+<div>
+  <a href="https://www.linkedin.com/in/stephan-model-53b46b182/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"></img>
+  </a>
+</div>
 
 ### On my way to become a web developer at the moment:
 
