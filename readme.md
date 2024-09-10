@@ -54,3 +54,7 @@ _Deep understanding of E-Commerce and SaaS Businesses, Basic Understanding of Di
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"></img>
   </a>
 </div>
+
+<div>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flevinthiel%2Flevinthiel%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flevinthiel%2Flevinthiel%2Fedit%2Fmain%2FREADME.md&labelColor=%23697689&countColor=%23263759&style=flat&labelStyle=none" /></a>
+</div>
