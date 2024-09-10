@@ -24,6 +24,32 @@ Aspiring Web and Software Developer with +5 years of experience in Project Manag
 - Deep understanding of E-Commerce and SaaS Businesses
 - Basic Understanding of Digital Marketing
 
+<ul
+      style="
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        gap: 10px;
+      "
+    >
+      <li style="border: 2px solid white; border-radius: 5px">
+        Project Management
+      </li>
+      <li style="border: 2px solid white; border-radius: 5px">
+        Stakeholder Management
+      </li>
+      <li style="border: 2px solid white; border-radius: 5px">
+        Confluence & JIRA
+      </li>
+      <li style="border: 2px solid white; border-radius: 5px">
+        Deep understanding of E-Commerce and SaaS Businesses
+      </li>
+      <li style="border: 2px solid white; border-radius: 5px">
+        Basic Understanding of Digital Marketing
+      </li>
+    </ul>
+
 ## Working Experience & Education
 
 ### 👨‍🎓 Education
