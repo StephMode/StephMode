@@ -18,37 +18,11 @@ Aspiring Web and Software Developer with +5 years of experience in Project Manag
 
 ### Additional Skills & Knowledge
 
-- Project Management
-- Stakeholder Management
-- Confluence & JIRA
-- Deep understanding of E-Commerce and SaaS Businesses
-- Basic Understanding of Digital Marketing
+_Project Management, Stakeholder Management, Confluence & JIRA_
 
-<ul
-      style="
-        list-style: none;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: flex-start;
-        gap: 10px;
-      "
-    >
-      <li style="border: 2px solid white; border-radius: 5px">
-        Project Management
-      </li>
-      <li style="border: 2px solid white; border-radius: 5px">
-        Stakeholder Management
-      </li>
-      <li style="border: 2px solid white; border-radius: 5px">
-        Confluence & JIRA
-      </li>
-      <li style="border: 2px solid white; border-radius: 5px">
-        Deep understanding of E-Commerce and SaaS Businesses
-      </li>
-      <li style="border: 2px solid white; border-radius: 5px">
-        Basic Understanding of Digital Marketing
-      </li>
-    </ul>
+_Deep understanding of E-Commerce and SaaS Businesses, Basic Understanding of Digital Marketing_
+
+
 
 ## Working Experience & Education
 
