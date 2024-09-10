@@ -1,6 +1,6 @@
 # Hi, I'm Stephan
 
-Aspiring Web and Software Developer with +5 years of experience in Project Management and Sales Professional, including management of Software Projects and Partnerships.
+Aspiring Web and Software Developer with +5 years of experience in Project Management and Sales, including management of Software Projects and Technology Partnerships.
 
 ## On my way to become a web developer at the moment
 
@@ -49,6 +49,9 @@ _Deep understanding of E-Commerce and SaaS Businesses, Basic Understanding of Di
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"></img>
   </a>
 </div>
+
+<br>
+<br>
 
 <div>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flevinthiel%2Flevinthiel%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flevinthiel%2Flevinthiel%2Fedit%2Fmain%2FREADME.md&labelColor=%23697689&countColor=%23263759&style=flat&labelStyle=none" /></a>
