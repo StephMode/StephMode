@@ -40,12 +40,7 @@ _Deep understanding of E-Commerce and SaaS Businesses, Basic Understanding of Di
 
 ## Passionate about
 
-- 📚 Literature & Writing
-- 📸 Photography
-- 🎧 Music
-- 🏃‍♂️ Running
-- 🗣️ Languages
-- 🍵 Tea
+📚 Literature & Writing 📸 Photography 🎧 Music 🏃‍♂️ Running 🗣️ Languages 🍵 Tea
 
 ## Let's get in touch
 
