@@ -1,14 +1,15 @@
-![mood GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21zazJkeHNvZ3hkNzA1NHRiaDY1b3N5aWhpdHZ2NTJ4cm82YjdpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
-
-# Hi, I'm Stephan
-
 Aspiring Web and Software Developer with +5 years of experience in Project Management and Sales, including management of Software Projects and Technology Partnerships.
 
 ## Technologies & Skills
 
-### Tech
+### Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Static Badge](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
 
 ### Skills & Knowledge
 
