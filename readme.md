@@ -38,7 +38,7 @@ Currently taking part in Web Development Bootcamp at <a href="https://www.neuefi
 ## Let's get in touch
 
 <div>
-  <a href="https://www.linkedin.com/in/stephan-model-53b46b182/">
+  <a href="https://www.linkedin.com/in/stephanmodel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"></img>
   </a>
 </div>
