@@ -1,5 +1,6 @@
-Aspiring Web and Software Developer with 5+ years of experience in Project Management and Sales, including management of Software Projects and Technology Partnerships.
-Currently taking part in Web Development Bootcamp at <a href="https://www.neuefische.de/">neue fische</a> and building my first live projects.
+Web and Software Developer in training with 5+ years of experience in Project Management and Sales.
+
+Currently enrollend in a Web Development Bootcamp at <a href="https://www.neuefische.de/">neue fische</a> and building my first live projects using these
 
 
 ## Technologies & Skills
@@ -19,14 +20,6 @@ Currently taking part in Web Development Bootcamp at <a href="https://www.neuefi
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
-
-### Skills & Knowledge
-
-📋 Project Management 👥 Stakeholder Management <br>
-⚙️ Implementation Management 
-
-🛍️📈 Deep understanding of E-Commerce and SaaS Businesses <br> 
-🎯 Basic Understanding of Digital Marketing
 
 
 ## Passionate about
