@@ -32,19 +32,3 @@ Currently enrollend in a Web Development Bootcamp at <a href="https://www.neuefi
 🧑🏼‍💻 Tech, Digital Media & Digital Economy <br>
 📚 Literature & Writing 📸 Photography 🎧 Music <br>
 🏃‍♂️ Running 🗣️ Languages 🍵 Tea <br>
-
-## Let's get in touch
-
-<div>
-  <a href="https://www.linkedin.com/in/stephanmodel/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"></img>
-  </a>
-</div>
-
-<div>
-  <a href="mailto:stephan.model@outlook.de">
-    <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=mail&logoColor=blue&logoSize=auto&labelColor=white&color=grey"></img>
-  </a>
-</div>
-
-
