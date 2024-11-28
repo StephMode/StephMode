@@ -1,7 +1,6 @@
-Web and Software Developer in training with 5+ years of experience in Project Management and Sales.
+Web and Software Developer with 5+ years of experience in Project Management and Sales.
 
-Currently enrollend in a Web Development Bootcamp at <a href="https://www.neuefische.de/">neue fische</a> and building my first live projects using these
-
+Graduated from the Web Development Bootcamp at <a href="https://www.neuefische.de/">neue fische</a> and building my first live projects using these
 
 ## Technologies & Skills
 
