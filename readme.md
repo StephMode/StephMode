@@ -1,5 +1,4 @@
 Web and Software Developer with 5+ years of experience in Project Management and Sales.
-
 Graduated from the Web Development Bootcamp at <a href="https://www.neuefische.de/">neue fische</a> and building my first live projects using these
 
 ## Technologies & Skills
