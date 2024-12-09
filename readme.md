@@ -26,7 +26,7 @@ Graduated from the Web Development Bootcamp at <a href="https://www.neuefische.d
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
 
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaloers&layout=compact&theme=github_dark&show)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephMode&layout=compact&theme=github_dark&show)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Passionate about
