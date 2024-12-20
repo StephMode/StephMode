@@ -26,8 +26,7 @@ Graduated from the Web Development Bootcamp at <a href="https://www.neuefische.d
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
 
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephMode&layout=compact&theme=github_dark&show)](https://github.com/StephMode/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephMode&theme=tokyonight)
 
 ## Passionate about
 
