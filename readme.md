@@ -25,9 +25,6 @@ Graduated from the Web Development Bootcamp at <a href="https://www.neuefische.d
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephMode&theme=tokyonight)
-
 ## Passionate about
 
 🧑🏼‍💻 Tech, Digital Media & Digital Economy <br>
