@@ -1,8 +1,35 @@
-Web Developer with 5+ years of experience in Project Management and Sales.
+Web Developer with 5+ years of experience in Project Management and Sales. 
+During my professional experience in several Sales-roles I got more and more involved into software development.
 
-Graduate of the Web Development Bootcamp at <a href="https://www.neuefische.de/">neuefische</a>.
+This experience has constantly strengthened my interest over time. Thus I took on the challenge of learning web development by going through the comprehensive Web Development Bootcamp at <a href="https://www.neuefische.de/">neuefische</a>.
 
-Now building more live projects using these
+With a box full of tools for web developement and programming at hand, my fascination for programming and web development has only increased.
+I'm genuinly passionate about learning and improving myself and my knowledge. 
+
+Right now, I'm working on projects to hone my skills and I'm also very eager to join a development team to make my contribution real world projects.  
+
+# My Projects
+
+These are the I've been working on recently:
+
+**glossary wizard**</br>
+Tool for small develeopment teams and individual developers to create project glossaries and documentations on the fly.
+🔗 <a href="https://github.com/StephMode/glossary-wizard/"/>demo</a> | <a href="https://glossary-wizard.vercel.app/">repo</a>
+
+**personal website**</br>
+My personal portfolio website to hone my React and CSS skills.
+🔗 <a href="https://www.stephanmodel.dev/"/>demo</a> | <a href="https://github.com/StephMode/personal-website">repo</a>
+
+**rooted**</br>
+Digital handbook with tips on plants and plant care. Final project of my Web Development Bootcamp. Development in a team of 4 people using agile methodology.
+🔗 <a href="https://rooted-capstone.vercel.app/">demo</a> | <a href="https://github.com/StephMode/plant-pal">repo</a>
+
+**iro**</br>
+Single Page Color Palette Application. Project of the Web Development Bootcamp, in which I built a frontend in React for the first time. I'm constantly improving the app.
+🔗 <a href="https://iro-app.vercel.app/">demo</a> | <a href="https://github.com/StephMode/iro">repo</a>
+
+
+# Tech Stack
 
 ## Languages
 
@@ -36,10 +63,10 @@ Now building more live projects using these
 
 ## Passionate about
 
-🧑🏼‍💻 Tech, Digital Media & Digital Economy <br>
-📚 Literature & Writing <br> 
-📸 Photography <br> 
-🎧 Music <br>
-🏃‍♂️ Running <br>
-🗣️ Languages <br>
-🍵 Tea <br>
+🧑🏼‍💻 Tech, Digital Media & Digital Economy |
+📚 Literature & Writing |
+📸 Photography |
+🎧 Music |
+🏃‍♂️ Running |
+🗣️ Languages | 
+🍵 Tea
