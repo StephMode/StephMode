@@ -3,10 +3,7 @@ During my professional experience in several Sales-roles I got more and more inv
 
 This experience has constantly strengthened my interest over time. Thus I took on the challenge of learning web development by going through the comprehensive Web Development Bootcamp at <a href="https://www.neuefische.de/">neuefische</a>.
 
-With a box full of tools for web developement and programming at hand, my fascination for programming and web development has only increased.
-I'm genuinly passionate about learning and improving myself and my knowledge. 
-
-Right now, I'm working on projects to hone my skills and I'm also very eager to join a development team to make my contribution real world projects.  
+Now, I'm on a mission to increase my knowledge and my toolbox by working on projects an being involved in the developer community.
 
 # My Projects
 
@@ -31,16 +28,12 @@ Single Page Color Palette Application. Project of the Web Development Bootcamp, 
 
 # Tech Stack
 
-## Languages
-
+**Languages**</br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-## Technologies
-
-
+**Technologies**</br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -51,8 +44,7 @@ Single Page Color Palette Application. Project of the Web Development Bootcamp, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-### Tools
-
+**Tools**</br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
