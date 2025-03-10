@@ -7,7 +7,7 @@ Now, I'm on a mission to increase my knowledge and my toolbox by working on proj
 
 # My Projects
 
-These are the I've been working on recently:
+These are the projects I've been working on recently:
 
 **glossary wizard** `TypeScript` | `Test Driven Development` | `Object Oriented Programming`
 🔗 <a href="https://github.com/StephMode/glossary-wizard/"/>demo</a> | <a href="https://glossary-wizard.vercel.app/">repo</a>
