@@ -9,20 +9,16 @@ Now, I'm on a mission to increase my knowledge and my toolbox by working on proj
 
 These are the I've been working on recently:
 
-**glossary wizard**</br>
-Tool for small develeopment teams and individual developers to create project glossaries and documentations on the fly.
+**glossary wizard** `TypeScript` | `Test Driven Development` | `Object Oriented Programming`
 🔗 <a href="https://github.com/StephMode/glossary-wizard/"/>demo</a> | <a href="https://glossary-wizard.vercel.app/">repo</a>
 
-**personal website**</br>
-My personal portfolio website to hone my React and CSS skills.
+**personal website** `React` | `Vite` | `StyledComponents`
 🔗 <a href="https://www.stephanmodel.dev/"/>demo</a> | <a href="https://github.com/StephMode/personal-website">repo</a>
 
-**rooted**</br>
-Digital handbook with tips on plants and plant care. Final project of my Web Development Bootcamp. Development in a team of 4 people using agile methodology.
+**rooted** `React` | `NextJS` | `StyledComponents` | `npm libraries`
 🔗 <a href="https://rooted-capstone.vercel.app/">demo</a> | <a href="https://github.com/StephMode/plant-pal">repo</a>
 
-**iro**</br>
-Single Page Color Palette Application. Project of the Web Development Bootcamp, in which I built a frontend in React for the first time. I'm constantly improving the app.
+**iro** `React` | `Vite` | pure `CSS` | `npm libraries`
 🔗 <a href="https://iro-app.vercel.app/">demo</a> | <a href="https://github.com/StephMode/iro">repo</a>
 
 
