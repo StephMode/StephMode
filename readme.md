@@ -1,9 +1,9 @@
-Web Developer with 5+ years of experience in Project Management and Sales. 
+Web Developer and Technologist with 5+ years of experience in Project Management and Sales. 
 During my professional experience in several Sales-roles I got more and more involved into software development.
 
 This experience has constantly strengthened my interest over time. Thus I took on the challenge of learning web development by going through the comprehensive Web Development Bootcamp at <a href="https://www.neuefische.de/">neuefische</a>.
 
-Now, I'm on a mission to increase my knowledge and my toolbox by working on projects an involving myself in the developer community.
+Now, I'm on a mission to increase my knowledge and my toolbox by working on projects and involving myself in the developer community.
 
 # My Projects
 
